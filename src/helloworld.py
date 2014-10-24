@@ -1,5 +1,4 @@
-
 #!/usr/bin/python
-#*-* coding: UTF-8 -*-
+#*-* coding: UTF8 -*-
 
 print "Hello,World"
